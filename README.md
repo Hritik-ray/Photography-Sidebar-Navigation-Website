@@ -18,11 +18,15 @@ A responsive photography-themed mini project built using HTML5 and CSS3, featuri
 
 
 # 📷 Preview
+### 🔹 Full Page View
 
+![Full Page](./Screenshot%202025-06-29%20161737.png)
 
+### 🔹 Sidebar Menu Open
+![Sidebar Open](./Screenshot%202025-06-29%20161754.png)
 
-
-
+### 🔹 Responsive Layout
+![Responsive View](./Screenshot%202025-06-29%20161829.png)
 # 🛠️ Tech Stack
 HTML5
 
